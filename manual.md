@@ -1,0 +1,6 @@
+kawamto
+matunaga
+miyazaki
+morino
+taniguti
+matukubo
