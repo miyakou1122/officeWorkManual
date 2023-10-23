@@ -4,4 +4,3 @@ matukubo
 kawamto
 matunaga
 miyazaki
-kawamoto kesseki
